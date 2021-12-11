@@ -1,4 +1,4 @@
-Assignment 1 -- Part 2:
+Part 2:
 ***********************
 Sub-Folder: AI
 Wiki File: wiki_00
@@ -22,6 +22,7 @@ Output:
 - That script will ask for queny input from the user
 - Once the search query is provided, the result will as below (sample output)
 
+```
 Enter the query: football championship
 ----- Results ------ 
 Document Title # - Score
@@ -35,3 +36,4 @@ Document Title 323      0.218869586769168
 Document Title 3927     0.21242494219869185
 Document Title 3045     0.20905026791642842
 Document Title 3075     0.19474877225418724
+```
