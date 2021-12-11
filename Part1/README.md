@@ -1,4 +1,4 @@
-Assignment 1 -- Part 1
+Part 1
 **********************
 
 Sub-Folder: AI
@@ -27,6 +27,7 @@ After Stemming:
 The graphs will be available in the "output" directory after the script execution is completed.
 
 Below is the sample output,
+```
 Unique 1-grams: 79122
 Most frequent 1-grams required to cover the 90% of the complete corpus: 41165
 After Stemming: Unique 1-grams: 64349
@@ -39,3 +40,4 @@ Unique 3-grams: 708385
 Most frequent 3-grams required to cover the 90% of the complete corpus: 635810
 After Stemming: Unique 3-grams: 705860
 After Stemming: Most frequent 3-grams required to cover the 90% of the complete corpus: 633365
+```
